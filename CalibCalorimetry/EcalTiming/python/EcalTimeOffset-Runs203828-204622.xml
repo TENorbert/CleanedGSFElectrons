@@ -1,0 +1,17 @@
+
+<EcalTimeOffsetConstant>
+
+  <EcalCondHeader>
+    <method>testmethod</method>
+    <version>testversion</version>
+    <datasource>testdata</datasource>
+    <since>123</since>
+    <tag>testtag</tag>
+    <date>Mar 24 1973</date>
+  </EcalCondHeader>
+
+  <BarrelValue>-1.00994</BarrelValue>
+
+  <EndcapValue>0.295426</EndcapValue>
+
+</EcalTimeOffsetConstant>
